@@ -1,6 +1,6 @@
 # Gonet Technical Test
 
-This project use SwiftUI only available for developing on iOS 13 and above.
+This project use SwiftUI only available for development on iOS 13 and above.
 
 ## Set Development Environment
 
@@ -39,10 +39,27 @@ go to root directory of ios project, and tap on `gonettest.xcworkspace` file
 
 ## Screenshots of the app
 
-<img src="./Screenshots/Screen Shot 2020-07-06 at 10.10.49 AM.png" width="240">
+<table style="border:none">
+    <tr>
+        <td>
+            <img src="./Screenshots/Screen Shot 2020-07-06 at 10.10.49 AM.png" width="240">
+        </td>
+        <td>
+            <img src="./Screenshots/Screen Shot 2020-07-06 at 10.11.08 AM.png" width="240">
+        </td>
+        <td>
+            <img src="./Screenshots/Screen Shot 2020-07-06 at 10.11.31 AM.png" width="240">
+        </td>
+    </tr>
+</table>
 
-<img src="./Screenshots/Screen Shot 2020-07-06 at 10.11.08 AM.png" width="240">
+<table style="border:none">
+  <tr><td><img src="./Screenshots/Screen Shot 2020-07-06 at 10.11.44 AM.png" width="775"></td></tr>
+</table>
 
-<img src="./Screenshots/Screen Shot 2020-07-06 at 10.11.31 AM.png" width="240">
 
-<img src="./Screenshots/Screen Shot 2020-07-06 at 10.11.44 AM.png" width="720">
+
+
+
+
+
